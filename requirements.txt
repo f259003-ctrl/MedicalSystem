@@ -1,6 +1,7 @@
-langchain>=0.2.0
-langchain-google-genai
-faiss-cpu
-langchain-text-splitters
-sentence-transformers
-transformers
+langchain==0.2.12
+langchain-google-genai==0.0.50
+faiss-cpu==1.7.4
+langchain-text-splitters==0.1.15
+sentence-transformers==2.2.2
+transformers==4.35.0
+torch==2.1.0
